@@ -50,8 +50,9 @@ u_JFM=dsu.sel(time_counter=slice('2013-01-01','2013-03-31'))['vozocrtx']
 v_JFM=dsv.sel(time_counter=slice('2013-01-01','2013-03-31'))['vomecrty']
 
 print('Select box area')
-u_JFM_box=u_JFM[:,jmin:jmax,imin:imax]
-v_JFM_box=v_JFM[:,jmin:jmax,imin:imax]
+u_JFM_box=u_JFM[:,jmin:jmax,imin:imax].chunk(chunks={'time_counter':-1,'x':-1,'y':-1})
+v_JFM_box=v_JFM[:,jmin:jmax,imin:imax].chunk(chunks={'time_counter':-1,'x':-1,'y':-1})
+
 
 # - get dx and dy
 print('get dx and dy')
@@ -111,4 +112,14 @@ transfer_JFM = wfs.get_f_k_in_2D(kradial_JFM,wavenumber_JFM,var_psd_np_JFM)
 
 print('Get flux')
 flux_JFM = wfs.get_flux_in_1D(kradial_JFM,wavenumber_JFM,var_psd_np_JFM)
+
+ave to Netscdf file
+# - build dataarray
+print('Save to Netscdf file')
+transfer_JFM_da = xr.DataArray(transfer_JFM,dims=['frequency','wavenumber'],name="transfer",coords=[ffrequency_JFM ,wavenumber_JFM])
+flux_JFM_da = xr.DataArray(flux_JFM,dims=['frequency','wavenumber'],name="flux",coords=[ffrequency_JFM,wavenumber_JFM])
+transfer_JFM_da.attrs['Name'] = '/scratch/cnt0024/hmg2840/albert7a/NATL60/NATL60-CJM165-S/1h/KE_Transfer_Flux_JFM_w_k_from_1h_NATL60-CJM165.nc'
+
+transfer_JFM_da.to_dataset().to_netcdf(path='/scratch/cnt0024/hmg2840/albert7a/NATL60/NATL60-CJM165-S/1h/KE_Transfer_Flux_JFM_w_k_from_1h_NATL60-CJM165.nc',mode='w',engine='scipy')
+flux_JFM_da.to_dataset().to_netcdf(path='/scratch/cnt0024/hmg2840/albert7a/NATL60/NATL60-CJM165-S/1h/KE_Transfer_Flux_JFM_w_k_from_1h_NATL60-CJM165.nc',mode='a',engine='scipy')
 
