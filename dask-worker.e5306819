@@ -1,0 +1,19 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.40.80:34799'
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-f5tzvcr4', purging
+distributed.worker - INFO -       Start worker at:   tcp://10.120.40.80:40849
+distributed.worker - INFO -          Listening to:   tcp://10.120.40.80:40849
+distributed.worker - INFO -              nanny at:         10.120.40.80:34799
+distributed.worker - INFO -              bokeh at:         10.120.40.80:37191
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.58:39916
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   20.00 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/worker-afr60_aj
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.43.58:39916
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+=>> PBS: job killed: walltime 14430 exceeded limit 14400
+distributed.dask_worker - INFO - Exiting on signal 15
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.40.80:34799'
+distributed.dask_worker - INFO - End worker

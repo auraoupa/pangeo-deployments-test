@@ -1,0 +1,21 @@
+[PROLOGUE] Starting prologue on node node082 at date Wed Jun 12 08:15:14 UTC 2019
+[PROLOGUE] Ending prologue on node node082 at date Wed Jun 12 08:15:14 UTC 2019
+[EPILOGUE] Starting epilogue on node node082 at date Wed Jun 12 09:13:04 UTC 2019
+
+------------ JOB INFO 5299410.admin01 -------------
+
+JOBID		: 5299410.admin01
+USER		: alberta
+GROUP		: swot_aval_oc
+JOB NAME	: dask-worker
+SESSION		: 24167
+RES REQSTED	: ncpus=4,mem=19gb,walltime=04:00:00,place=free
+RES USED	: cpupercent=98,cput=00:08:02,ncpus=4,vmem=7986000kb,mem=5560432kb,walltime=00:57:50
+BILLING         : 03:51:20 (ncpus x walltime)
+QUEUE		: qt72h
+ACCOUNT		: PangeoKEspectrumeNATL60
+JOB EXIT CODE	: 0
+
+------------ END JOB INFO 5299410.admin01 ---------
+
+[EPILOGUE] Ending epilogue on node node082 at date Wed Jun 12 09:13:04 UTC 2019

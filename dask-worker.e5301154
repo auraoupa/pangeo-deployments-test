@@ -1,0 +1,34 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.40.159:39924'
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-qpt8vgfu', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-hluy_u3a', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-uyqn48tr', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-m8xogdki', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-4jpwvj4m', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-nyzizeas', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-4e6zqpr0', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-gzz6mtee', purging
+distributed.worker - INFO -       Start worker at:  tcp://10.120.40.159:42381
+distributed.worker - INFO -          Listening to:  tcp://10.120.40.159:42381
+distributed.worker - INFO -              nanny at:        10.120.40.159:39924
+distributed.worker - INFO -              bokeh at:        10.120.40.159:35652
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:47978
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   20.00 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/worker-zm8saenl
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.43.56:47978
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:47978
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:47978
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:47978
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:47978
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:47978
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:47978
+distributed.worker - INFO - Stopping worker at tcp://10.120.40.159:42381
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.40.159:39924'
+distributed.dask_worker - INFO - End worker
