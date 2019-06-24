@@ -1,0 +1,26 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.40.88:44585'
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-cuo8r3uv', purging
+distributed.worker - INFO -       Start worker at:   tcp://10.120.40.88:33552
+distributed.worker - INFO -          Listening to:   tcp://10.120.40.88:33552
+distributed.worker - INFO -              nanny at:         10.120.40.88:44585
+distributed.worker - INFO -              bokeh at:         10.120.40.88:39842
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.58:45975
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   20.00 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/worker-4wkietn4
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.43.58:45975
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((<built-in function getitem>, (<function getter at 0x2b2e6fc54598>, ImplicitToExplicitIndexingAdapter(array=CopyOnWriteArray(array=LazilyOuterIndexedArray(array=_ElementwiseFunctionArray(LazilyOuterIndexedArray(array=<xarray.backends.netCDF4_.NetCDF4ArrayWrapper object at 0x2b2e89c79160>, key=BasicIndexer((slice(None, None, None), slice(None, None, None), slice(None, None, None)))), func=functools.partial(<function _apply_mask at 0x2b2e881a86a8>, encoded_fill_values={1e+20}, decoded_fill_value=nan, dtype=dtype('float32')), dtype=dtype('float32')), key=BasicIndexer((slice(None, None, None), slice(None, None, None), slice(None, None, None)))))), (slice(0, 24, None), slice(0, 4729, None), slice(0, 8354, None)), True, <SerializableLock: 28764c39-3e04-44bd-b6d5-a7b51d4959a1>), (array([ 0,  1,  2, ..., 23, 23, 23]), slice(None, None, None), slice(None, None, None))))
+kwargs:    {}
+Exception: MemoryError()
+
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.18s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+=>> PBS: job killed: walltime 14426 exceeded limit 14400
+distributed.dask_worker - INFO - Exiting on signal 15
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.40.88:44585'
+distributed.dask_worker - INFO - End worker

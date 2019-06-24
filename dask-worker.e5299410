@@ -1,0 +1,28 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.40.82:32967'
+distributed.diskutils - INFO - Found stale lock file and directory '/home/ad/alberta/worker-_zax8gxv', purging
+distributed.worker - INFO -       Start worker at:   tcp://10.120.40.82:34839
+distributed.worker - INFO -          Listening to:   tcp://10.120.40.82:34839
+distributed.worker - INFO -              nanny at:         10.120.40.82:32967
+distributed.worker - INFO -              bokeh at:         10.120.40.82:45628
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:50782
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   20.00 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/worker-c0x3m8s3
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.43.56:50782
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:50782
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:50782
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:50782
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:50782
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:50782
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.43.56:50782
+distributed.worker - INFO - Stopping worker at tcp://10.120.40.82:34839
+distributed.diskutils - ERROR - Failed to remove '/home/ad/alberta/worker-c0x3m8s3' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/home/ad/alberta/worker-c0x3m8s3'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.40.82:32967'
+distributed.dask_worker - INFO - End worker

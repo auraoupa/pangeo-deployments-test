@@ -1,0 +1,21 @@
+[PROLOGUE] Starting prologue on node node080 at date Wed Jun 12 11:30:50 UTC 2019
+[PROLOGUE] Ending prologue on node node080 at date Wed Jun 12 11:30:50 UTC 2019
+[EPILOGUE] Starting epilogue on node node080 at date Wed Jun 12 15:31:20 UTC 2019
+
+------------ JOB INFO 5306818.admin01 -------------
+
+JOBID		: 5306818.admin01
+USER		: alberta
+GROUP		: swot_aval_oc
+JOB NAME	: dask-worker
+SESSION		: 17976
+RES REQSTED	: ncpus=4,mem=19gb,walltime=04:00:00,place=free
+RES USED	: cpupercent=68,cput=00:10:16,ncpus=4,vmem=7295960kb,mem=5017564kb,walltime=04:00:32
+BILLING         : 16:02:08 (ncpus x walltime)
+QUEUE		: qt72h
+ACCOUNT		: PangeoKEspectrumeNATL60
+JOB EXIT CODE	: 271
+
+------------ END JOB INFO 5306818.admin01 ---------
+
+[EPILOGUE] Ending epilogue on node node080 at date Wed Jun 12 15:31:20 UTC 2019
