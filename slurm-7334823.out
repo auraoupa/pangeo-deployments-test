@@ -1,0 +1,1120 @@
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:40539'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:42870'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:45085'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:42408'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:42646'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:37866'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:46648'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:43686'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:34677'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:34354'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:46183'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:41586'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:33626'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:40777'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:36003'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:42043'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:35324'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:42620'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:38545'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:42302'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:46569'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:34161'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:38311'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:42723'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:39583'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:42524'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:42278'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.54:32990'
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6_d0fiig', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xuuzf15a', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9rj887_8', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9462gu8c', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_npx176r', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-b9lbx9dp', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-o_3jrd3e', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-tm6z1n63', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5vxedi0y', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-cx3y8v50', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8va2ylm_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-met6aqi4', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-l3ndocvo', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-f_bwhai4', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-tyuki6hv', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-dz0x7i7r', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-y9eh59bw', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-mhvtbglz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9fj7zmoj', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_ywq79g3', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-41aocbuw', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-gkmtwh6e', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-p39i94rd', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-n0hj3vvn', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-fg2k53fi', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_2w35_xb', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-l2evu6c8', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ikkwz7dn', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-qgou9g4c', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-oz3wd2ws', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-c8rqp5kl', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-kn5lmfhr', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-rgm68mcb', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-7j_k3397', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-b75pv68_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-oib9nc1v', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ic8514lv', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-11xkhsg8', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-lw79zjwq', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jhz1wrzm', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-40yksx4r', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-mjkp4mq5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-7dwncqia', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-06esbdtk', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-g_opudyp', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-awiyv0s5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-vrwtwm51', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-qhfkqpry', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-p5zkp65g', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-n7avzhc0', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8yv9voxk', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-73oi5c1t', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-d65scdgd', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-z7cxcz8q', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-arf6k__t', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-t27ud9se', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5c3zbmzy', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ootoeosw', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-qhr9c_yg', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6dqiy3zs', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-bcxj5hby', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-gqw9cph1', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-iv8deny9', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xb6npudy', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-wkevl3er', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-z0mlhb_y', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4ov9ouk6', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-j1naa_jo', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-kjeszv_5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-f4_x0n26', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-uks9fwdb', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_zp7l4up', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-cscwzkn_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jddfs8ka', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-0953ih52', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-g1ez95k3', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ln5aqvwu', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-p0glznfz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-64zs_2g2', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1bwgegh6', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-llbm5icf', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xdhe_a_s', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-dpcu6cc_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9r3cqfwk', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_4d0pscp', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-q2h9u_xa', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-w4lvdfu3', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-j8gx1itn', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-7ydh2cem', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-zxafxfbb', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3_xqvjbl', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-hplck63z', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-iekkbmb2', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-d3ngsnvz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-o3dc1kvn', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-htyjxptj', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-uj157sdz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-uf92wuwm', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-bvdzrmjh', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2uqw8ne_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3nj4btk3', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-73hm5fcy', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-sxo_10ot', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-isn1tgcx', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-bjd8ysvf', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-dbe35r1i', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-l82ni940', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-vajrza0d', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6al_2wad', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-bt36jqae', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-yzcark4c', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2dlgbduo', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2uyweq7h', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-89ii2jmq', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-on0gv53u', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jbsjz5a5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-089cp6hq', purging
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:43198
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:35283
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:42357
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:45538
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:33451
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:43198
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:34039
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:35283
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:34922
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:42357
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:40753
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:45538
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:33451
+distributed.worker - INFO -          dashboard at:          172.30.8.54:35760
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:45888
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:33824
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:34039
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:36962
+distributed.worker - INFO -          dashboard at:          172.30.8.54:44174
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:34922
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:45888
+distributed.worker - INFO -          dashboard at:          172.30.8.54:39578
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:39316
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:46714
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:40069
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:40753
+distributed.worker - INFO -          dashboard at:          172.30.8.54:41110
+distributed.worker - INFO -          dashboard at:          172.30.8.54:36521
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:33824
+distributed.worker - INFO -          dashboard at:          172.30.8.54:35963
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:36962
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:39235
+distributed.worker - INFO -          dashboard at:          172.30.8.54:34279
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -          dashboard at:          172.30.8.54:46554
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:39316
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:46714
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:42321
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:40069
+distributed.worker - INFO -          dashboard at:          172.30.8.54:46573
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:40983
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -          dashboard at:          172.30.8.54:38625
+distributed.worker - INFO -          dashboard at:          172.30.8.54:37001
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:39235
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -          dashboard at:          172.30.8.54:39672
+distributed.worker - INFO -          dashboard at:          172.30.8.54:34877
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          172.30.8.54:38569
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:42321
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:40983
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          172.30.8.54:41587
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:          172.30.8.54:37947
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:          172.30.8.54:37554
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-katc7h_8
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1vafut5u
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9v5r0_xk
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-hd1ez0qk
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-uq4l8vqy
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3asq4mk2
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-pv7tqd_t
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-a_210unv
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ngjgq1lp
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-q47a9pro
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8pemt0zo
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-onzthg0q
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-hg1oozlt
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ol00eqk3
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-diwwfspf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-d87wxmfm
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-f1056qqe
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:38227
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:38227
+distributed.worker - INFO -          dashboard at:          172.30.8.54:35545
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:34604
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:34604
+distributed.worker - INFO -          dashboard at:          172.30.8.54:45731
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-691vjtsf
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-wi9pgum7
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:33443
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:33443
+distributed.worker - INFO -          dashboard at:          172.30.8.54:39642
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-44q0jhng
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:43586
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:43586
+distributed.worker - INFO -          dashboard at:          172.30.8.54:43503
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-z5b70qe4
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:38786
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:38786
+distributed.worker - INFO -          dashboard at:          172.30.8.54:38345
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-g84066cq
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:38148
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:38148
+distributed.worker - INFO -          dashboard at:          172.30.8.54:38763
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:36739
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:36739
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:          172.30.8.54:38885
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-mzhwm4sv
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:40596
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_eklj8fl
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:40596
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          172.30.8.54:35371
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-r8k19fus
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:40486
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:40486
+distributed.worker - INFO -          dashboard at:          172.30.8.54:42521
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-qmf56del
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:32794
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:32794
+distributed.worker - INFO -          dashboard at:          172.30.8.54:45432
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-prsy2vx1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xi1u162k', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-mxq7rtk_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-vr7thltw', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-g01qe_br', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8xij2743', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1ckh6k9r', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-rpmhi5hi', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-c62wbjes', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-sg015q1z', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-mzjk_4xm', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-v8831rje', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6asctejq', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ez_f4nop', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-446kd2pz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8tubn7ia', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ifprkru7', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_oyxflgv', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-tc9sqrr_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jbjqh7z5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-mtxwzmzy', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-32jrcb42', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-t_wu4jjo', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-i5rla0do', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-dw3n8qbj', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-u2ffsspg', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-vk4krtxr', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_d6fx_cq', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-qs2xz3hg', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3g8nenc6', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-j1ctu74u', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-m8xq36ib', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-rrpql3hc', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6wd975yv', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-17nup8c6', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-trmn7p3_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-pta45f33', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_ea42o8s', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-z1xi97cz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-nx6dts2o', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-yvlx4tsv', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4v7o5yh5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-czklvlmw', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5_2uujca', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-m962lce2', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-edhtmzty', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1igarf5p', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-c2ejzr3i', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-7vvimy2_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-y0p7fms5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-v4asg03s', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xevc0qt5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jgt27ptb', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-f656rvux', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2766mdi5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-koag19xi', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ivhngqrj', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-d9c0s88x', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9dpf96hl', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-byaeplrn', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_u5iclh_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3co9653w', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-yvbq4aa0', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-thqcfks0', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ikkua5ml', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-08sqr3w9', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1cj67c0z', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-h3ki44u0', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-tcuh5mbk', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-h2mlayck', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_sww78sf', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-16jsy9cr', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-fo29f8_i', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-rqgmlx4z', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-lli9r_s2', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-khw8w9k1', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-169u_1f6', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-e2ea8_ef', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-wb4pxdn4', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-0sy_oluy', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-86icsk68', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_mxu0o5e', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-w6qzn1u_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-t6mj4m_t', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-7kvakf8x', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3mkidpyg', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xqxm18iu', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-bk9dlxh2', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8v692aap', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-u3119le7', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-s1bl_0r6', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ysibtw4b', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-b_gavzcs', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-yxfbo5my', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5zls_j0a', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-m2dml6p0', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-k2581mku', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-atuwyznh', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-zeg6a48r', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-sjfss2rb', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_xw8e9ua', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-eaasi7wu', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ux_ayqep', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4mn_zzhp', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ind35pcz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-aldww_sf', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xmkyq5qt', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-viskyjea', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-zwpn6aux', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-u6w90t86', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1oxmp5wf', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2yx03y5z', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-f5ixti8q', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4blhu3im', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xlylav0l', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-y3467hbf', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5yjo41m8', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ydv02_4h', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4bcqmskt', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-y83zlpif', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-61zd7_ip', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-34d8znf8', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5iicj1my', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-500mnm7t', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xqst9n66', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-m2wjmxdy', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8xqogo_y', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8bls92kl', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-svilqwyc', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-s4x8mpfj', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jz0ltw9y', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6vkt6ciu', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8m41mq3n', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-u1dutr6b', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-eywsjd3s', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-c2mu3jb_', purging
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/contextlib.py:119: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:46277
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:46277
+distributed.worker - INFO -          dashboard at:          172.30.8.54:46769
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-o_499ezm
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - WARNING - Worker process 8846 was killed by signal 15
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/multiprocessing/semaphore_tracker.py:144: UserWarning: semaphore_tracker: There appear to be 1 leaked semaphores to clean up at shutdown
+  len(cache))
+distributed.nanny - WARNING - Restarting worker
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/multiprocessing/semaphore_tracker.py:144: UserWarning: semaphore_tracker: There appear to be 1 leaked semaphores to clean up at shutdown
+  len(cache))
+distributed.nanny - WARNING - Worker process 8840 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:46159
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:46159
+distributed.worker - INFO -          dashboard at:          172.30.8.54:40891
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-cwpymyki
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/contextlib.py:119: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:39047
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:39047
+distributed.worker - INFO -          dashboard at:          172.30.8.54:37477
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-42fd5mdj
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - WARNING - Worker process 8810 was killed by signal 15
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/multiprocessing/semaphore_tracker.py:144: UserWarning: semaphore_tracker: There appear to be 1 leaked semaphores to clean up at shutdown
+  len(cache))
+distributed.nanny - WARNING - Restarting worker
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:    tcp://172.30.8.54:41628
+distributed.worker - INFO -          Listening to:    tcp://172.30.8.54:41628
+distributed.worker - INFO -          dashboard at:          172.30.8.54:42399
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-oj519ve0
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.utils_perf - INFO - full garbage collection released 18.20 MB from 191 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 38.56 MB from 1653 reference cycles (threshold: 10.00 MB)
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.utils_perf - INFO - full garbage collection released 12.69 MB from 2252 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 12.41 MB from 2022 reference cycles (threshold: 10.00 MB)
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:39627
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:35283
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:46159
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:42321
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:40596
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:46714
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:42278'
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:42357
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:38148
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:34039
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:40753
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:36003'
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:40983
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:32794
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:33451
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:41628
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:38227
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:36739
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:43198
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:39047
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:39235
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:36962
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:43586
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:33824
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:40486
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:45538
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:42043'
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:45888
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:34604
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:33443
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:40069
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:46183'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:34161'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:43686'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:38545'
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:39627'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.54:46277
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:42302'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:35324'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:42524'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:46648'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:42408'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:37866'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:39583'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:34677'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:40777'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:42620'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:46569'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:45085'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:41586'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:42870'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:40539'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:34354'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:33626'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:38311'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:42723'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:32990'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.54:42646'
+distributed.dask_worker - INFO - End worker
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
