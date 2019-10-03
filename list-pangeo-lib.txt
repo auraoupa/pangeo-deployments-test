@@ -3,3 +3,6 @@ conda create --name pangeo-cloud -c conda-forge python=3.6.7 numpy=1.16.2 xarray
 conda activate pangeo-cloud
 
 python -m ipykernel install --user --name pangeo-cloud --display-name pangeo_cloud
+
+pip install dask_labextension
+jupyter labextension install dask-labextension
